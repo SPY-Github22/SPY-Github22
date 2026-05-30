@@ -246,6 +246,6 @@ An open-source, privacy-first AI controller using voice and hand gestures. Forke
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*"Ship it. Then make it better."*
+*"Schrödinger's developer"*
 
 </div>
