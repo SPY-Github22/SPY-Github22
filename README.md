@@ -63,6 +63,22 @@ A clicker game where you battle enemies to reach 100 health and win.
 
 </td>
 </tr>
+<tr>
+<td width="33%">
+
+### 🧟 They are coming
+*A UE5 game project*
+
+`Unreal Engine 5` `Action`
+
+A game project built using Unreal Engine 5.
+
+**[⌥ View Repo](https://github.com/SPY-Github22/UE5-Game---They-are-coming)**
+
+</td>
+<td width="33%"></td>
+<td width="33%"></td>
+</tr>
 </table>
 
 ---
@@ -96,6 +112,21 @@ An FAQ agent built with Google's Agent Development Kit as part of the Google AI 
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🌊 Coral Bleaching Predictor
+*A Coral Reef Degradation Prediction Prototype*
+
+`Python` `Machine Learning`
+
+A prototype project predicting coral reef degradation using machine learning models.
+
+**[⌥ View Repo](https://github.com/SPY-Github22/Coral-Bleaching-Predictor)**
+
+</td>
+<td width="50%"></td>
+</tr>
 </table>
 
 ---
@@ -116,6 +147,16 @@ A creative web project exploring interactive design and dynamic visuals.
 **[⌥ View Repo](https://github.com/SPY-Github22/neon-orbit)**
 
 </td>
+<td width="50%"></td>
+</tr>
+</table>
+
+---
+
+## 🏆 Hackathon Projects
+
+<table>
+<tr>
 <td width="50%">
 
 ### 🔒 Zentinel One
@@ -126,6 +167,18 @@ A creative web project exploring interactive design and dynamic visuals.
 Built with Team Terminal — a collaborative hackathon project focused on security tooling.
 
 **[⌥ View Repo](https://github.com/SPY-Github22/Team-Terminal-Build-Zentinel-One)**
+
+</td>
+<td width="50%">
+
+### ✨ Shining Zenith
+*Guvi Hackathon Challenge - 2*
+
+`JavaScript` `Submission`
+
+A hackathon project submitted for the Guvi Hackathon Challenge 2.
+
+**[⌥ View Repo](https://github.com/SPY-Github22/Shining-Zenith)**
 
 </td>
 </tr>
