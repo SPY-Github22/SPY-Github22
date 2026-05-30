@@ -118,20 +118,6 @@ A creative web project exploring interactive design and dynamic visuals.
 </td>
 <td width="50%">
 
-### 🗄️ ZerithDB
-*A lightweight database solution*
-
-`TypeScript` · [zerithdb.netlify.app](https://zerithdb.netlify.app)
-
-A TypeScript-powered database tool with a live deployment.
-
-**[⌥ View Repo](https://github.com/SPY-Github22/ZerithDB)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🔒 Zentinel One
 *Hackathon team project*
 
@@ -142,7 +128,6 @@ Built with Team Terminal — a collaborative hackathon project focused on securi
 **[⌥ View Repo](https://github.com/SPY-Github22/Team-Terminal-Build-Zentinel-One)**
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
@@ -223,6 +208,21 @@ An open-source, privacy-first AI controller using voice and hand gestures. Forke
 **[⌥ View Fork](https://github.com/SPY-Github22/100_days_100_web_project)**
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ ZerithDB
+*A lightweight database solution*
+
+`TypeScript` · `Fork` · [zerithdb.netlify.app](https://zerithdb.netlify.app)
+
+A TypeScript-powered database tool. Forked to explore the architecture with a live deployment.
+
+**[⌥ View Fork](https://github.com/SPY-Github22/ZerithDB)**
+
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
