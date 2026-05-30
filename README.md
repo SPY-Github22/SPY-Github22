@@ -1,35 +1,150 @@
 <div align="center">
 
-<!-- Dynamic header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SPY&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Game%20Developer%20%7C%20Interactive%20Experience%20Architect&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sudarshan%20Pai%20Y&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Game%20Dev%20%C2%B7%20Web%20Dev%20%C2%B7%20AI%20Builder&descAlignY=60&descSize=18" width="100%"/>
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4A9EFF&center=true&vCenter=true&width=650&lines=Building+games+that+feel+alive+%F0%9F%8E%AE;Shipping+web+apps+that+just+work+%F0%9F%9A%80;Exploring+AI+%C2%B7+Computer+Vision+%C2%B7+CV+tooling+%F0%9F%A4%96;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
 
-<div align="center">
-
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=4A9EFF&center=true&vCenter=true&width=600&lines=Building+Interactive+Worlds;Sci-Fi+%7C+Strategy+%7C+Narrative+%7C+Puzzle;Unity+%7C+Unreal+%7C+Godot;Solo+Dev+%2B+Full+Stack+Creator)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-spy--github22.github.io%2Fportfolio-4a9eff?style=for-the-badge&labelColor=08080e)](https://spy-github22.github.io/portfolio/)
+[![Game Dev Portfolio](https://img.shields.io/badge/🎮%20Game%20Dev-spy--github22.github.io%2Fportfolio%2Fgamedev.html-9cf?style=for-the-badge&labelColor=08080e)](https://spy-github22.github.io/portfolio/gamedev.html)
 
 </div>
 
 ---
 
-## 🎮 About Me
+## 👾 About Me
 
-```
-> loading SPY.exe ...
-> identity confirmed: Game Developer & Creative Technologist
-> engines online: Unity · Unreal Engine · Godot 4
-> status: building impossible spaces since 2023
-```
+Hey, I'm **Sudarshan** — also known as **SPY**. I'm a developer who builds across the stack: games, web apps, AI tools, and everything in between. I care about making things that feel good to use.
 
-I build **interactive experiences** — from rogue-like tactical shooters to non-euclidean puzzle games. I care deeply about **game feel**, **visual polish**, and the tiny details that make a player stop and go *"woah"*.
+- 🎮 **Game dev** with Unity — shipped games on itch.io
+- 🌐 **Web dev** — HTML/CSS/JS to full-stack apps
+- 🤖 **AI/ML** — building agents and smart tools
+- 🏆 **Google AI Academy APAC** participant
 
-- 🚀 Currently building **NULLSPACE** — a spatial puzzle game with non-euclidean geometry (Godot 4)  
-- 🛸 Shipped **AXIOM BREACH** — procedural rogue-like tactical shooter (Unity)  
-- 🌿 Shipped **VERDANT SIEGE** — bioluminescent tower defense with real-time economy (Unity)  
-- 🔥 Demoed **ASHFALL** — a Lumen-lit narrative first-person experience (Unreal Engine)  
-- 🕹️ Solo developer across all projects — design, code, art direction, and everything in between
+---
+
+## 🎮 Game Dev — [Portfolio Website](https://spy-github22.github.io/portfolio/gamedev.html) · [itch.io](https://sudpy-dev.itch.io/)
+
+<table>
+<tr>
+<td width="33%">
+
+### 🛸 Alien Outpost
+*Aliens have invaded Earth. Fight for Mars.*
+
+`Unity` `Adventure` `Windows`
+
+An action-adventure game set in an alien invasion scenario.
+
+**[▶ Play on itch.io](https://sudpy-dev.itch.io/alien-outpost)**
+
+</td>
+<td width="33%">
+
+### 🕹️ The Year Three Thousand
+*A platformer set in the far future*
+
+`Unity` `Platformer` `Windows`
+
+Face challenges and retrieve the lost object in a futuristic world.
+
+**[▶ Play on itch.io](https://sudpy-dev.itch.io/three-thousand-years)**
+
+</td>
+<td width="33%">
+
+### 💊 Health++ Clicker
+*Defeat enemies before time runs out*
+
+`Unity` `Action` `Browser + Android`
+
+A clicker game where you battle enemies to reach 100 health and win.
+
+**[▶ Play in Browser](https://sudpy-dev.itch.io/health-plus-clicker-game)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 AI & Machine Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 ResumeIQ
+*AI-powered resume matching web app*
+
+`JavaScript` `AI`
+
+Upload resumes and job descriptions to get match scores, skill gaps, strengths, and improvement suggestions.
+
+**[⌥ View Repo](https://github.com/SPY-Github22/ResumeIQ)**
+
+</td>
+<td width="50%">
+
+### 🤝 ADK FAQ Agent
+*Google AI Academy APAC – Track 1*
+
+`Python` `Google ADK`
+
+An FAQ agent built with Google's Agent Development Kit as part of the Google AI Academy APAC program.
+
+**[⌥ View Repo](https://github.com/SPY-Github22/adk-faq-agent)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Web Development
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Neon Orbit
+*A stylized web experience*
+
+`JavaScript` `HTML/CSS`
+
+A creative web project exploring interactive design and dynamic visuals.
+
+**[⌥ View Repo](https://github.com/SPY-Github22/neon-orbit)**
+
+</td>
+<td width="50%">
+
+### 🗄️ ZerithDB
+*A lightweight database solution*
+
+`TypeScript` · [zerithdb.netlify.app](https://zerithdb.netlify.app)
+
+A TypeScript-powered database tool with a live deployment.
+
+**[⌥ View Repo](https://github.com/SPY-Github22/ZerithDB)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 Zentinel One
+*Hackathon team project*
+
+`JavaScript` `Team Build`
+
+Built with Team Terminal — a collaborative hackathon project focused on security tooling.
+
+**[⌥ View Repo](https://github.com/SPY-Github22/Team-Terminal-Build-Zentinel-One)**
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
@@ -37,84 +152,26 @@ I build **interactive experiences** — from rogue-like tactical shooters to non
 
 <div align="center">
 
-| 🎮 Game Engines | 💻 Languages | 🎨 Creative |
-|:-:|:-:|:-:|
-| ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
-| ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white) | ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
-| ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white) |
+**Game Dev**
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**AI / ML / Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛸 AXIOM BREACH
-*Rogue-like tactical shooter set in a dying space station*
-
-`Unity` `C#` `2024` `Shipped`
-
-- Procedural level generation system
-- Custom AI state machine for enemies  
-- Shader-based damage visualization
-- Solo dev · 6-week build
-
-**[▶ Play on itch.io](#)** | **[⌥ Source](#)**
-
-</td>
-<td width="50%">
-
-### 🌿 VERDANT SIEGE
-*Tower defense in a bioluminescent alien jungle*
-
-`Unity` `C#` `2023` `Shipped`
-
-- Real-time economy system
-- Hand-authored wave scripting
-- Juicy per-tower particle effects
-- Solo dev · complete gameplay loop
-
-**[▶ Play Demo](#)** | **[⌥ Source](#)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔥 ASHFALL
-*A short first-person narrative about the last city*
-
-`Unreal Engine` `2024` `Demo`
-
-- Fully dynamic Lumen GI — zero baked lightmaps
-- Environment art + systems dev
-- Atmospheric narrative pacing
-- Exploration of cinematic UE5 tooling
-
-**[▶ Play Demo](#)** | **[⌥ Source](#)**
-
-</td>
-<td width="50%">
-
-### 🌀 NULLSPACE
-*Gravity doesn't exist here. Neither do walls.*
-
-`Godot 4` `GDScript` `2025` `WIP 🔨`
-
-- Non-euclidean geometry gameplay
-- Portals, gravity flipping, impossible spaces
-- Spatial puzzle design with layered mechanics
-- Currently in active development
-
-**[▶ Coming Soon](#)** | **[⌥ Source](#)**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -136,22 +193,50 @@ I build **interactive experiences** — from rogue-like tactical shooters to non
 
 ---
 
-## 🎯 Currently
+## 🤝 Contributions & Forks
 
-- 🔨 **Building:** NULLSPACE — non-euclidean puzzle game in Godot 4  
-- 📖 **Learning:** Advanced Lumen & Nanite techniques in UE5  
-- 🎮 **Playing:** Whatever gives me new ideas  
-- 💡 **Exploring:** Procedural generation, shader magic, and game AI  
+> Projects I've forked, studied, and contributed to.
+
+<table>
+<tr>
+<td width="50%">
+
+### 🖐️ Heliox OS
+*Open-source JARVIS-like AI system control agent*
+
+`Python` `Computer Vision` `Voice` · `Fork`
+
+An open-source, privacy-first AI controller using voice and hand gestures. Forked to study and contribute to the codebase.
+
+**[⌥ View Fork](https://github.com/SPY-Github22/Heliox-OS)**
+
+</td>
+<td width="50%">
+
+### 📦 100 Days · 100 Web Projects
+*From basic to intermediate — HTML, CSS, JS*
+
+`HTML` `CSS` `JavaScript` · `Fork`
+
+100 frontend projects covering core web skills. Forked as a structured learning resource and reference.
+
+**[⌥ View Fork](https://github.com/SPY-Github22/100_days_100_web_project)**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+## 🔗 Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-08080e?style=for-the-badge&logo=firefox&logoColor=4a9eff&label=🌐)](https://spy-github22.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-spy--github22.github.io-4a9eff?style=for-the-badge&logo=firefox&logoColor=white)](https://spy-github22.github.io/portfolio/)
+[![Game Dev](https://img.shields.io/badge/Game_Dev-spy--github22.github.io-9cf?style=for-the-badge&logo=unity&logoColor=white)](https://spy-github22.github.io/portfolio/gamedev.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-pai-y/)
+[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://sudpy-dev.itch.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SPY-Github22)
-[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](#)
 
 </div>
 
@@ -161,6 +246,6 @@ I build **interactive experiences** — from rogue-like tactical shooters to non
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-*"Good games feel alive before you even know why."*
+*"Ship it. Then make it better."*
 
 </div>
