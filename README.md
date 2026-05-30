@@ -18,7 +18,6 @@ Hey, I'm **Sudarshan** — also known as **SPY**. I'm a developer who builds acr
 - 🎮 **Game dev** with Unity — shipped games on itch.io
 - 🌐 **Web dev** — HTML/CSS/JS to full-stack apps
 - 🤖 **AI/ML** — building agents and smart tools
-- 🏆 **Google AI Academy APAC** participant
 
 ---
 
