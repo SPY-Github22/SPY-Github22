@@ -117,31 +117,6 @@ A creative web project exploring interactive design and dynamic visuals.
 </td>
 <td width="50%">
 
-### 🗄️ ZerithDB
-*A lightweight database solution*
-
-`TypeScript` · [zerithdb.netlify.app](https://zerithdb.netlify.app)
-
-A TypeScript-powered database tool with a live deployment.
-
-**[⌥ View Repo](https://github.com/SPY-Github22/ZerithDB)**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔒 Zentinel One
-*Hackathon team project*
-
-`JavaScript` `Team Build`
-
-Built with Team Terminal — a collaborative hackathon project focused on security tooling.
-
-**[⌥ View Repo](https://github.com/SPY-Github22/Team-Terminal-Build-Zentinel-One)**
-
-</td>
-<td width="50%"></td>
 </tr>
 </table>
 
